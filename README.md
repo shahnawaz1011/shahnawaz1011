@@ -1,6 +1,6 @@
 ## Shahanawaj Nadaf 👋
 
-**`Data Analyst(Btech Student/Opent to Work/Intern)`**
+**`Data Analyst(Btech Student / Open to Work/ Intern)`**
 
 I am a B.Tech student specializing in Artificial Intelligence & Data Science, with a strong passion for data analysis and data visualization. 
 I am continuously learning and improving my skills in the data domain, with a keen interest in analytics, business insights, and visualization-driven storytelling.
