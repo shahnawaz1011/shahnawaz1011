@@ -1,16 +1,28 @@
-## Shahanawaj Nadaf 👋
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
 
-**`Data Analyst(Fresher/Btech Student)`**
+# Shahanawaj Nadaf  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Shahanawaj+Iqbal+Nadaf;A+Data+Analyst;A+Sales+Analysis+Specialist;A+Learner;)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="mailto:shsarv2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+**`Data Analyst (Fresher/Btech Student)`**
 
 I am a B.Tech student specializing in Artificial Intelligence & Data Science, with a strong passion for data analysis and data visualization. 
 I am continuously learning and improving my skills in the data domain, with a keen interest in analytics, business insights, and visualization-driven storytelling.
 
+---
+
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/shahnawaj-nadaf/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
-</a>
-<a href="https://www.instagram.com/g.forgraphics/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
 
@@ -26,4 +38,11 @@ I am continuously learning and improving my skills in the data domain, with a ke
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" alt="figma" width="40" height="40"/>
 
 ---
+
+
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image"/>
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
+
 
